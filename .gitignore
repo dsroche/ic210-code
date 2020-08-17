@@ -1,3 +1,8 @@
+# Try to exclude executables
+*
+!*.*
+!*/
+
 # Prerequisites
 *.d
 
