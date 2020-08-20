@@ -1,6 +1,7 @@
 # Try to exclude executables
 *
 !*.*
+!Makefile
 !*/
 
 # Prerequisites
