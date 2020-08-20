@@ -10,6 +10,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <stdbool.h>
 
 /* Define a special type "cstring" which is just a char array
  * of a predetermined, fixed length.
@@ -34,7 +35,7 @@ static char readchar(stream in);
 static void readstring(cstring s, stream in);
 static double readnum(stream in);
 static void writenum(double x, stream out);
-static int stringeq(cstring a, cstring b);
+static bool stringeq(cstring a, cstring b);
 
 /* These two lines prevent some compiler warnings in case you don't
  * use every function here in your own code. */
@@ -107,7 +108,7 @@ void writenum(double x, stream out) {
   }
 }
 
-int stringeq(cstring a, cstring b) {
+bool stringeq(cstring a, cstring b) {
   /* Note, using strncmp would be "safer". */
   return strcmp(a, b) == 0;
 }
