@@ -1,0 +1,7 @@
+5
+NAME   HW  QUIZ EXAM
+Brown  84   62   71
+Green  98   92   93
+Jones  91   87   78
+Smith  52   97   94
+Worth  100  92   88
