@@ -1,9 +1,9 @@
 7
 NAME  HW QUIZ EXAM
 Abel  87  73   89
-Dean  68  94   94
+Dean  68  94   92
 Jade  79  68   91
 Mood  79  84   76
 Noon  94  79   82
 Wren  32  77   67
-Zoom  85  89   84
+Zoom  95  89   84
