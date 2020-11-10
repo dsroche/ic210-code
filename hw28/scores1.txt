@@ -1,0 +1,12 @@
+10
+Betty Smith 900
+Betty Johnson 1600
+Betty Johnson 2400
+Andy Smith 800
+Betty Smith 1200
+Betty Smith 2200
+Betty Johnson 1600
+Andy Smith 200
+Betty Smith 2300
+Betty Johnson 1900
+
