@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <item>
+      <title>IC210 Unit 6: Array size and index out of bounds</title>
+      <pubDate>Tue, 13 Oct 2020 21:33:58 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=iiykCJ0mSQM"/>
+      <itunes:duration>10:43</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 4: scanf</title>
+      <pubDate>Mon, 14 Sep 2020 04:00:15 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=1dW72RaseSY"/>
+      <itunes:duration>13:50</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 5: Introduction to functions</title>
+      <pubDate>Fri, 25 Sep 2020 18:11:12 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=OnThYSGJkF8"/>
+      <itunes:duration>22:29</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Laptop setup with WSL</title>
+      <pubDate>Mon, 17 Aug 2020 17:40:14 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=rNXccLw9CF8"/>
+      <itunes:duration>13:14</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 3: The idea of a loop</title>
+      <pubDate>Fri, 28 Aug 2020 04:51:48 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=aiAgnFntnzY"/>
+      <itunes:duration>16:49</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 2: Variables &amp;amp; If: Overview (with bad stand-up routine)</title>
+      <pubDate>Fri, 21 Aug 2020 06:57:17 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=Bu4N-WeODqI"/>
+      <itunes:duration>16:52</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 5: Examples of pass by pointer</title>
+      <pubDate>Tue, 29 Sep 2020 19:50:24 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=GUIGVHWxNfM"/>
+      <itunes:duration>7:56</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 2: Types</title>
+      <pubDate>Fri, 21 Aug 2020 08:25:39 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=JZO7hiMo6MU"/>
+      <itunes:duration>16:30</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 3: Simple Calculator</title>
+      <pubDate>Sat, 29 Aug 2020 16:38:30 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=u3RfeQvUXAc"/>
+      <itunes:duration>13:58</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 8: Typedef</title>
+      <pubDate>Tue, 03 Nov 2020 19:22:33 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=YgAjdOfCQuE"/>
+      <itunes:duration>5:39</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 6: Returning arrays from functions</title>
+      <pubDate>Mon, 19 Oct 2020 00:11:17 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=CEzxMFHgkmg"/>
+      <itunes:duration>10:10</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 3: Stepwise refinement from the inside out</title>
+      <pubDate>Tue, 01 Sep 2020 04:45:45 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=_f5HLiye3Z8"/>
+      <itunes:duration>31:13</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 6: Heap-based arrays</title>
+      <pubDate>Thu, 15 Oct 2020 22:27:51 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=z6imOnr-SV4"/>
+      <itunes:duration>19:12</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 8: Basic struct usage</title>
+      <pubDate>Tue, 03 Nov 2020 19:27:59 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=GA9KqFl0Qrs"/>
+      <itunes:duration>6:30</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 8: typedef struct</title>
+      <pubDate>Tue, 03 Nov 2020 19:28:59 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=0l3tJHRyyhM"/>
+      <itunes:duration>3:01</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 7: basics on selection sort</title>
+      <pubDate>Tue, 20 Oct 2020 18:08:10 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=ESF7Ju75Rzc"/>
+      <itunes:duration>15:32</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 3: Nested loop &amp;amp; stepwise refinement - polynomial evaluation</title>
+      <pubDate>Mon, 31 Aug 2020 18:08:04 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=ohz6h3s2ofU"/>
+      <itunes:duration>8:09</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 8: Pointers to structs</title>
+      <pubDate>Mon, 09 Nov 2020 02:40:49 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=8jLzFa0ovOo"/>
+      <itunes:duration>8:15</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 6: Functions on arrays</title>
+      <pubDate>Mon, 19 Oct 2020 00:05:37 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=VQA3jVw5dHQ"/>
+      <itunes:duration>14:36</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 7: Using qsort() function (optional)</title>
+      <pubDate>Tue, 27 Oct 2020 02:55:33 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=9s87v_AmiHw"/>
+      <itunes:duration>13:38</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 7: Sorting a 2D array</title>
+      <pubDate>Fri, 23 Oct 2020 03:29:39 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=Iev3ph1f7U4"/>
+      <itunes:duration>10:44</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 8: Functions on structs</title>
+      <pubDate>Fri, 06 Nov 2020 04:55:44 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=S-wCVQft7CU"/>
+      <itunes:duration>5:27</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 6: Strings as char arrays</title>
+      <pubDate>Tue, 13 Oct 2020 21:36:10 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=48ZEXAJLc20"/>
+      <itunes:duration>12:35</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 7: power of before() function</title>
+      <pubDate>Tue, 20 Oct 2020 18:05:53 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=cNTrjp_7wHo"/>
+      <itunes:duration>8:12</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 4: Streams</title>
+      <pubDate>Thu, 10 Sep 2020 21:13:15 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=elslZ2iKOwc"/>
+      <itunes:duration>10:24</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 8: Intro to structs</title>
+      <pubDate>Tue, 03 Nov 2020 19:21:29 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=B_s03SBdc4M"/>
+      <itunes:duration>6:49</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 6: Arrays intro</title>
+      <pubDate>Thu, 08 Oct 2020 22:07:36 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=G5k7G8HGr48"/>
+      <itunes:duration>16:17</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 8: Arrays of structs</title>
+      <pubDate>Mon, 09 Nov 2020 02:34:09 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=Y4mBk1lm1aA"/>
+      <itunes:duration>8:47</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 5: Top down design</title>
+      <pubDate>Tue, 29 Sep 2020 18:19:23 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=YKFm-uqJseY"/>
+      <itunes:duration>15:31</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 2: Type conversions</title>
+      <pubDate>Mon, 24 Aug 2020 19:50:34 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=cXId-9m4_Ik"/>
+      <itunes:duration>16:42</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 4: Pointers</title>
+      <pubDate>Mon, 14 Sep 2020 03:59:42 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=LJsyfquWTNI"/>
+      <itunes:duration>18:40</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 2: Expressions</title>
+      <pubDate>Tue, 25 Aug 2020 20:32:15 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=gjL3DeNse0k"/>
+      <itunes:duration>8:51</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 3: For loop</title>
+      <pubDate>Sun, 30 Aug 2020 04:23:27 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=11KT8IjVSws"/>
+      <itunes:duration>16:34</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 6: Arrays of anything</title>
+      <pubDate>Tue, 20 Oct 2020 19:51:41 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=ibxdQ_C-UY8"/>
+      <itunes:duration>12:36</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 5: Introduction to recursive functions</title>
+      <pubDate>Sat, 03 Oct 2020 05:00:24 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=ZnP8t3_rnfA"/>
+      <itunes:duration>8:17</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 4: printf</title>
+      <pubDate>Thu, 10 Sep 2020 21:18:39 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=0acuFZLxBRI"/>
+      <itunes:duration>12:41</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 5: #include, #define, #ifndef~#endif</title>
+      <pubDate>Mon, 05 Oct 2020 14:36:21 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=mXmk7lk5oW4"/>
+      <itunes:duration>7:29</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 3: Reading from files</title>
+      <pubDate>Sun, 30 Aug 2020 05:07:12 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=QFAJCaFQlHY"/>
+      <itunes:duration>14:03</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 5: Separating compiling and linking</title>
+      <pubDate>Mon, 05 Oct 2020 17:31:31 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=42zKvcdO1Mw"/>
+      <itunes:duration>5:16</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 8: Struct representation, strings in structs</title>
+      <pubDate>Fri, 06 Nov 2020 04:54:23 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=idQAUVb4H6k"/>
+      <itunes:duration>10:01</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 5: How to write a recursive function</title>
+      <pubDate>Sat, 03 Oct 2020 05:05:59 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=uKajYXOKxw4"/>
+      <itunes:duration>11:04</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 2: Binary data</title>
+      <pubDate>Sun, 23 Aug 2020 05:06:58 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=RYME4j3ijws"/>
+      <itunes:duration>9:24</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 7: Searching</title>
+      <pubDate>Tue, 27 Oct 2020 02:47:18 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=ikwbazHa9Y0"/>
+      <itunes:duration>10:47</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 6: Two-dimensional arrays</title>
+      <pubDate>Tue, 20 Oct 2020 19:55:10 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=hMNS89GSIsY"/>
+      <itunes:duration>12:58</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 4: Odds &amp;amp; Ends (of files)</title>
+      <pubDate>Tue, 15 Sep 2020 18:49:28 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=h3FvoaVDWxM"/>
+      <itunes:duration>6:20</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 3: Nested loop &amp;amp; stepwise refinement - Henkel matrix</title>
+      <pubDate>Mon, 31 Aug 2020 20:07:30 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=loi7UNr2bns"/>
+      <itunes:duration>12:46</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 5: Call stack, pass by value, scope for functions</title>
+      <pubDate>Tue, 29 Sep 2020 18:15:13 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=xdElXJAjwT8"/>
+      <itunes:duration>12:33</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 5: Comparing Recursion with Loops</title>
+      <pubDate>Sat, 03 Oct 2020 05:00:38 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=cP0WlQsZ0wM"/>
+      <itunes:duration>6:13</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 8: Structs containing arrays</title>
+      <pubDate>Mon, 09 Nov 2020 02:41:41 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=h6l1mV4ilz8"/>
+      <itunes:duration>4:52</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 7: strcmp(), string capitalization, swapping pointers</title>
+      <pubDate>Fri, 23 Oct 2020 03:46:12 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=WMDt-ldC4T8"/>
+      <itunes:duration>13:33</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 5: Vocabulary of functions</title>
+      <pubDate>Tue, 22 Sep 2020 15:30:23 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=kj4B6vCOtJk"/>
+      <itunes:duration>3:40</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 2: If statments</title>
+      <pubDate>Thu, 27 Aug 2020 01:23:47 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=w-rBpVJ7y0g"/>
+      <itunes:duration>25:11</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 2: Variable names, declaration, and assignment</title>
+      <pubDate>Sun, 23 Aug 2020 04:58:17 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=DxHnhmCVPWU"/>
+      <itunes:duration>2:56</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 6: realloc to grow an array</title>
+      <pubDate>Thu, 15 Oct 2020 22:27:22 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=RTyB0aC_oSg"/>
+      <itunes:duration>6:47</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 2: Type-dependent input and output</title>
+      <pubDate>Sun, 23 Aug 2020 05:10:51 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=NI_EfDbUcXo"/>
+      <itunes:duration>6:39</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 5: Working with multiple files &amp;amp; guarding header files</title>
+      <pubDate>Mon, 05 Oct 2020 17:30:10 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=4A9i1zWa3a4"/>
+      <itunes:duration>8:18</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 8: Struct initialization and assignment</title>
+      <pubDate>Fri, 06 Nov 2020 04:50:44 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=COx7GbGoL8w"/>
+      <itunes:duration>7:32</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 6: Memory layout of arrays</title>
+      <pubDate>Thu, 08 Oct 2020 22:08:10 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=lAKEdNUYfr8"/>
+      <itunes:duration>7:16</itunes:duration>
+    </item>
+    <item>
+      <title>IC210 Unit 4: Getting rid of ic210.h</title>
+      <pubDate>Tue, 15 Sep 2020 18:47:20 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=Qe4sDrbTxrM"/>
+      <itunes:duration>18:54</itunes:duration>
+    </item>
+    <item>
+      <title>IC210: Unit 5: Basics of pass by pointer</title>
+      <pubDate>Tue, 29 Sep 2020 19:37:22 +0000</pubDate>
+      <enclosure url="https://www.youtube.com/watch?v=PQVOAwOzHQU"/>
+      <itunes:duration>9:04</itunes:duration>
+    </item>
+  </channel>
+</rss>
